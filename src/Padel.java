@@ -1,4 +1,4 @@
 public class Padel {
-    hejhej snygging
+   int hejhejsnygging;
     
 }
